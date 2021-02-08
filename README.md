@@ -1,5 +1,5 @@
 # SiteTransD
 
 <p align="center">
-  <img src="C:\Users\Lucie Vautier\Documents\00_ENSC\00_Cours\01_TransD\MindMap.png" width="350" title="hover text">
+  <img src="..\image\MindMap.png" width="350" title="MindMap 080221">
 </p>
