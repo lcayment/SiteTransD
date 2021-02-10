@@ -1,3 +1,3 @@
 # SiteTransD
 
-![GitHub Logo](../images/MindMap.png)
+![MindMap](images/MindMap.png)
