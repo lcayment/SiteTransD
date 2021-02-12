@@ -252,11 +252,20 @@
             <div class="row">
                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_right">
                      <div class="box_text">
-                         <p>En amont de ce projet, ont été réalisées des recherches sur la perseverance scolaire, sur Bluebot et sur la création d'une application pour enfants.</p>
+                         <h3>La persévérance scolaire</h3>
+                         <p>Quelques recherches sur les indices de la perseverance scolaire chez les jeunes. Quelles sont les élements qui encourage ou décourage un enfant et comment les identifier ?</p>
+                     </div>
+                     <div class="box_text">
+                        <h3>Bluebot</h3>
+                        <p>Bluebot est l'automate utilisé par les enfants dans le cadre des ateliers de robotique. Vous trouverez une description de l'automate ainsi que des fiches techniques.</p>
+                     </div>
+                     <div class="box_text">
+                        <h3>Applications pour enfants</h3>
+                        <p>Présentation des aspects importants lorsque l'on développe une application destinée à des enfants.</p>
                      </div>
                  </div> 
-                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                     <div class="box_bg">
+                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_right">    
+                    <div class="box_bg">
                          <div class="box_bg_img">
                              <figure><img src="images/recherches.jpeg"></figure>
                          </div>
@@ -314,15 +323,15 @@
                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_right">
                      <div class="box_text">
                          <h3>Les observations</h3>
-                         <p>Voici les objectifs fixés au début du projet, en octobre 2020.</p>
+                         <p>L'ensemble des observations et des analyses sont regroupés ici. Ces observations ont été menées durant les mois de novembre et décembre 2020.</p>
                      </div>
                      <div class="box_text">
                         <h3>Les focus group</h3>
-                        <p>Et voici les objectifs atteints à la fin de l'année, en mai 2021.</p>
+                        <p>Les focus group ont été mis en place au début du second semestre du projet et concernent des enfants de primaire.</p>
                      </div>
                      <div class="box_text">
                         <h3>Les retours de l'application</h3>
-                        <p>Et évidemment les objectifs futurs pour la suite du projet.</p>
+                        <p>Suite à la mise en place de l'application, voici les retours de données que nous avons recueillis.</p>
                      </div>
                  </div>  
             </div>
@@ -338,21 +347,23 @@
                 <div class="col-md-12">
                     <form class="contact_bg"> <h1> N'hésitez pas à nous contacter si vous avez des questions ! </h1>
                         <div class="row">
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                <input class="contactus" placeholder="Nom" type="text" name="Name">
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                <input class="contactus" placeholder="Téléphone" type="text" name="Email">
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                <input class="contactus" placeholder="Email" type="text" name="Email">
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                <button class="send">Envoyer</button>
-                            </div>
+                            <form method="post" action="Contact.php">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                    <input class="contactus" placeholder="Nom" type="text" name="Name">
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <input class="contactus" placeholder="Téléphone" type="text" name="Email">
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <input class="contactus" placeholder="Email" type="text" name="Email">
+                                </div>
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                    <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
+                                </div>
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                    <button class="submit" value="Valider">Envoyer</button>
+                                </div>
+                            </form>
                         </div>
                     </form>
                 </div>
