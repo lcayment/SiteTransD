@@ -1345,8 +1345,9 @@ color: #f00;
  .testimonial_box {
     text-align: center;
 }
- .testimonial_box figure {
+ .testimonial_box figure img{
     margin: 0;
+    width: 40%;
 }
 
 .testimonial a {
@@ -1382,12 +1383,21 @@ color: #f00;
      padding-bottom: 5px;
      margin-bottom: 15px;
 }
+
+.testimonial h3
+{
+     color: #000;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 500;
+}
  .testimonial .clients_box p {
      color: #000;
      font-size: 17px;
      line-height: 28px;
      font-weight: 400;
      color: #1a1a1b;
+     text-align: left;
 }
  .testimonial .clients_box span {
      color: #6e6e6e;
