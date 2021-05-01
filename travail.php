@@ -33,85 +33,27 @@
 <!-- body -->
 
 <body class="main-layout">
-    <!-- loader  -->
-    <!-- <div class="loader_bg">
-        <div class="loader"><img src="images/loading.gif" alt="#" /></div>
-    </div> -->
-    <!-- end loader -->
-    <!-- header -->
-    <header>
-        <!-- header inner -->
+<header>
         <div class="header-top">
-            <div class="header">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
-                            <div class="full">
-                                <div class="center-desk">
-                                    <div class="logo">
-                                        <a href="index.html">Robot à l'école</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
-                            
-                                        <ul class="top_icon">
-                                            <li class="button_login"> <a href="#">Se connecter</a> </li>
-                                            <li class="mean-last">
-                                             <a href="#"><img src="images/search_icon.png" alt="#" /></a>
-                                            </li>
-                                        </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end header inner -->
-
-            <!-- end header -->
-            <section class="slider_section">
-                <div class="banner_main">
-
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-md-2 padding_left0">
-                                <div class="menu-area">
-                                <div class="limit-box">
-                                    <nav class="main-menu">
-                                        <ul class="menu-area-main">
-                                            <li><a href="butduprojet.html">But du projet</a></li>
-                                            <li><a href="objectifs.html">Objectifs</a></li>
-                                            <li><a href="recherches.html">Recherches</a></li>
-                                            <li><a href="travail.html">Travail réalisé</a></li>
-                                            <li><a href="donnees.html">Données</a></li>
-                                            <li><a href="#contact">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                            </div>
+            <?php require_once "header.html" ?>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 ">
                                 <div class="text-bg">
                                     <h1>Travail réalisé</h1>
-                                    <span>Les grilles d'observations, les observations, <br/> les analyses, les focus group, l'application mobile </span>
+                                    <span>Les grilles d'observations, les observations, <br>,les analyses, les focus group, l'application mobile </span>
                                     <a href="#">Contact</a>
                                 </div>
                             </div>
-                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
                                 <div class="text-img">
-                                   <!-- <figure><img src="images/img_robot.png" alt="#"/></figure> -->
+                                 <!-- <figure><img src="images/img_robot.png" alt="#"/></figure> -->
                                 </div>
                             </div>
-
-
                         </div>
-                    </div>
+                     </div>
                 </div>
-        
-           </section>
+            </section>
         </div>
     </header>
-
     <!-- our -->
     <div id="but" class="our">
         <div class="container">

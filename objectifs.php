@@ -29,18 +29,18 @@
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+
 </head>
 <!-- body -->
 
 <body class="main-layout">
-
 <header>
         <div class="header-top">
             <?php require_once "header.html" ?>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 ">
                                 <div class="text-bg">
-                                    <h1>Contact</h1>
-                                    <span>Voici l'equipe de notre projet !</span>
+                                    <h1>Objectifs</h1>
+                                    <span>Objectifs fixés, objectifs atteints et objectifs futurs</span>
                                     <a href="#">Contact</a>
                                 </div>
                             </div>
@@ -61,99 +61,36 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage">
-                        <h2>L'équipe <img src="images/3.png" alt="#"></h2>
+                        <h2>Objectifs</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
-                        
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <div class="two-box">
-                                <figure><img src="images/maiwen.jpg" alt="#"/></figure>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-                            <div class="Games">
-                                <h3>Maïwen Maginet</h3><br/>
-                                <p>Lorem ipsum 
-                                </p>
-                            </div>
+                        <div class="Games">
+                             <h3>Objectifs fixés</h3>
+                             <p>Les objectifs du projet ont été posés l’année dernière, bien qu’avec la crise sanitaire, ceux-ci n'ont pas été entièrement atteints. Il s’agissait, cette année, de reprendre plusieurs points. Nous avions donc pour objectifs de base de faire des séances d’observation sur les maternelles suivants le programme Canopé avec Bluebot (voir annexes). Il fallait d’abord tester les grilles d’observation et les adapter à nos propres observations afin d’en tirer un maximum d’informations. Un autre des objectifs que nous souhaitions atteindre était de programmer une application qui permettrait de récolter les données concernant les ressentis des enfants, directement dans une base de données, accessible à tout moment par tous les membres de l’équipe.</p>
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
-
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <div class="two-box">
-                                <figure><img src="images/lottie.png" alt="#" /></figure>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-
-                            <div class="Games">
-                                <h3>Lottie Rocuet</h3>
-                                <p> Lorem ispum
-                                </p>
-                            </div>
+                        <div class="Games">
+                            <h3>Objectifs atteints</h3>
+                            <p> A présent, nous avons, malgré la crise sanitaire, réussi à faire une dizaine de séances à l’école maternelle Gambetta. Nous avons dans un premier temps, fait quelques séances d’observation, non pas pour examiner le comportement des enfants, mais pour ajuster les premières grilles d’observation que nous avions récupérées. Nous avons par la suite fait des recherches et nous nous sommes documentées afin de comprendre quels pouvaient être les critères de persévérance scolaire. Tout cela nous a permis d’ajuster les grilles d’observation. Par la suite nous avons suivi plusieurs séances de robotique avec les maternelles, et avons récolté beaucoup de données organisées selon les grilles. Nous avons tenu un journal de bord dans lequel nous mettions en commun nos observations basées sur les grilles ainsi que ce que nous avions relevé de pertinent, et qui méritait d’être approfondi par la suite. 
+                            Quant à l’application, nous avons tenté de la programmer. Nous nous sommes documentées et avons déjà réalisé une maquette (voir annexes). Cependant, aucune d’entre nous n’est experte en développement pour des interfaces type application. Nous continuons donc de nous documenter, ou d’envisager d’autres possibilités.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
-
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <div class="two-box">
-                                <figure><img src="images/maelle.png" alt="#" /></figure>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-
-                            <div class="Games">
-                                <h3>Maëlle François </h3><br/>
-                                <p>Lorem ipsum </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 margin_bottom">
-                    <div class="row">
-
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <div class="two-box">
-                                <figure><img src="images/hana.jpg" alt="#" /></figure>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-
-                            <div class="Games">
-                                <h3>Hana Hajjam </h3>
-                                <p>Lorem Ipsum </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 margin_bottom">
-                    <div class="row">
-
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <div class="two-box">
-                                <figure><img src="images/lucie.png" alt="#" /></figure>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-
-                            <div class="Games">
-                                <h3>Lucie Cayment </h3>
-                                <p>Lorem Ipsum </p>
-                            </div>
+                        <div class="Games">
+                            <h3>Objectifs futurs</h3>
+                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -169,23 +106,21 @@
                 <div class="col-md-12">
                     <form class="contact_bg"> <h1> N'hésitez pas à nous contacter si vous avez des questions ! </h1>
                         <div class="row">
-                            <form method="post" action="Contact.php">
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                    <input class="contactus" placeholder="Nom" type="text" name="Name">
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <input class="contactus" placeholder="Téléphone" type="text" name="Email">
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <input class="contactus" placeholder="Email" type="text" name="Email">
-                                </div>
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                    <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                                </div>
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                    <button class="submit" value="Valider">Envoyer</button>
-                                </div>
-                            </form>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                <input class="contactus" placeholder="Nom" type="text" name="Name">
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                <input class="contactus" placeholder="Téléphone" type="text" name="Email">
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                <input class="contactus" placeholder="Email" type="text" name="Email">
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                <button class="send">Envoyer</button>
+                            </div>
                         </div>
                     </form>
                 </div>
@@ -216,8 +151,8 @@
                                         <li><img src="images/3.png" alt="#"> <a href="objectifs.html">Objectifs</a> </li>
                                         <li><img src="images/3.png" alt="#"> <a href="recherches.html">Recherches</a> </li>
                                         <li><img src="images/3.png" alt="#"> <a href="travail.html"> Travail réalisé</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="donnees.html">Données</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="contact.html">Contact</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="données.html">Données</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
                                     </ul>
                                 </div>
                             </div>
@@ -226,7 +161,7 @@
                                     <h3>Nous contacter</h3>
                                     <ul class="loca">
                                         <li>
-                                            <a href="#"><img src="icon/loc.png" alt="#" /></a>109 Avenue Roul <br/> 33400 Talence</li>
+                                            <a href="#"><img src="icon/loc.png" alt="#" /></a>109 Avenue Roul <br/>33400 Talence</li>
                                         <li>
                                             <a href="#"><img src="icon/email.png" alt="#" /></a>nous@ensc.com </li>
                                         <li>

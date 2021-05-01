@@ -29,85 +29,33 @@
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+      
 </head>
 <!-- body -->
 
 <body class="main-layout">
-    <!-- loader  -->
-    <!-- <div class="loader_bg">
-        <div class="loader"><img src="images/loading.gif" alt="#" /></div>
-    </div> -->
-    <!-- end loader -->
-    <!-- header -->
-    <header>
-        <!-- header inner -->
-        <div class="header-top">
-            <div class="header">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
-                            <div class="full">
-                                <div class="center-desk">
-                                    <div class="logo">
-                                        <a href="index.html">Robot à l'école</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
-                            
-                                        <ul class="top_icon">
-                                            <li class="button_login"> <a href="#">Se connecter</a> </li>
-                                            <li class="mean-last">
-                                             <a href="#"><img src="images/search_icon.png" alt="#" /></a>
-                                            </li>
-                                        </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end header inner -->
 
-            <!-- end header -->
-            <section class="slider_section">
-                <div class="banner_main">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-md-2 padding_left0">
-                                <div class="menu-area">
-                                    <div class="limit-box">
-                                        <nav class="main-menu">
-                                            <ul class="menu-area-main">
-                                                <li><a href="#but">But du projet</a></li>
-                                                <li><a href="#objectifs">Objectifs</a></li>
-                                                <li><a href="#software">Recherches</a></li>
-                                                <li><a href="#about">Travail réalisé</a></li>
-                                                <li><a href="#testimonial">Données</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                </div>
-                            </div>
+<header>
+        <div class="header-top">
+            <?php require_once "header.html" ?>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 ">
                                 <div class="text-bg">
-                                    <h1>Projet<br> Transdisciplinaire</h1>
-                                    <span>Bienvenue sur le site de<br>notre projet transdisciplinaire : <br> Robot à l'école </span>
-                                    <a href="#contact">Contact</a>
+                                    <h1>Projet <br> transdisciplinaire</h1>
+                                    <span>Bienvenue sur le site de <br> notre projet transdisciplinaire :<br>Robot à l'école</span>
+                                    <a href="#">Contact</a>
                                 </div>
                             </div>
-                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
                                 <div class="text-img">
-                                   <!-- <figure><img src="images/img_robot.png" alt="#"/></figure> -->
+                                 <!-- <figure><img src="images/img_robot.png" alt="#"/></figure> -->
                                 </div>
                             </div>
                         </div>
-                    </div>
+                     </div>
                 </div>
-           </section>
+            </section>
         </div>
     </header>
-
     <!-- our -->
     <div id="but" class="our">
         <div class="container">
@@ -122,7 +70,6 @@
             <div class="row">
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
-                        
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                             <div class="two-box">
                                 <figure><img src="images/contexte.jpeg" alt="#"/></figure>
@@ -339,6 +286,39 @@
     </div>
 
     <!-- end testimonial -->
+
+     <!-- about  -->
+        <div id="software" class="We_are">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="titlepage">
+                            <h2>Gestion de projet <img src="images/3.png" alt="#"></h2><br/><a href="travail.html">Pour en savoir plus sur la gestion de projet</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 margin_bottom">
+                        <div class="row">
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                                <div class="two-box">
+                                    <figure><img src="images/contexte.jpeg" alt="#"/></figure>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                                <div class="box_text">
+                                    <p>Vision et mission du projet, KPI, North Star, User Journey, A/B tests etc (cf moodle)
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end abouts -->
+
 
     <!-- contact -->
     <div id="contact" class="contact">

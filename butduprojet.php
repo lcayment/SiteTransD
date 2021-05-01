@@ -33,92 +33,35 @@
 <!-- body -->
 
 <body class="main-layout">
-    <!-- loader  -->
-    <!-- <div class="loader_bg">
-        <div class="loader"><img src="images/loading.gif" alt="#" /></div>
-    </div> -->
-    <!-- end loader -->
-    <!-- header -->
+    
     <header>
-        <!-- header inner -->
         <div class="header-top">
-            <div class="header">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
-                            <div class="full">
-                                <div class="center-desk">
-                                    <div class="logo">
-                                        <a href="index.html">Robot à l'école</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
-                            
-                                        <ul class="top_icon">
-                                            <li class="button_login"> <a href="#">Se connecter</a> </li>
-                                            <li class="mean-last">
-                                             <a href="#"><img src="images/search_icon.png" alt="#" /></a>
-                                            </li>
-                                        </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end header inner -->
-
-            <!-- end header -->
-            <section class="slider_section">
-                <div class="banner_main">
-
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-md-2 padding_left0">
-                                <div class="menu-area">
-                                <div class="limit-box">
-                                    <nav class="main-menu">
-                                        <ul class="menu-area-main">
-                                            <li><a href="butduprojet.html">But du projet</a></li>
-                                            <li><a href="objectifs.html">Objectifs</a></li>
-                                            <li><a href="recherches.html">Recherches</a></li>
-                                            <li><a href="travail.html">Travail réalisé</a></li>
-                                            <li><a href="donnees.html">Données</a></li>
-                                            <li><a href="#contact">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                            </div>
+            <?php require_once "header.html" ?>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 ">
                                 <div class="text-bg">
-                                    <h1>Recherches</h1>
-                                    <span>La persévérance scolaire, Bluebot et une application pour enfants </span>
+                                    <h1>But<br> du projet</h1>
+                                    <span>Contexte, Description, Problématique <br> et Antécédents </span>
                                     <a href="#">Contact</a>
                                 </div>
                             </div>
-                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
                                 <div class="text-img">
-                                   <!-- <figure><img src="images/img_robot.png" alt="#"/></figure> -->
+                                 <!-- <figure><img src="images/img_robot.png" alt="#"/></figure> -->
                                 </div>
                             </div>
-
-
                         </div>
-                    </div>
+                     </div>
                 </div>
-        
-           </section>
+            </section>
         </div>
     </header>
-
     <!-- our -->
     <div id="but" class="our">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage">
-                        <h2>Recherches</h2>
+                        <h2>But du projet</h2>
                     </div>
                 </div>
             </div>
@@ -126,8 +69,25 @@
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
                         <div class="Games">
-                            <h3>La persévérance scolaire</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            <h3>Contexte</h3>
+                            <p>Dans le cadre de la refondation de l’école de la République inscrite dans la loi du 8 juillet 2013, le ministère de l’éducation s’est lancé de nouveaux objectifs. Il souhaite, grâce à la création d’un service public du numérique éducatif et de l’enseignement à distance, “proposer aux enseignants une offre diversifiée de ressources pédagogiques, des contenus et des services contribuant à leur formation”. Il incite également à revoir dans sa globalité le contenu et la diffusion des ressources pédagogiques.
+                            </p>
+                            <figure><img src="images/Logo_CANOPE.png" alt="#"/></figure>
+                            <p>
+                            Le réseau Canopé, à l’origine de notre projet, répond pleinement à ces enjeux. Il s’agit d’un opérateur public de l’Education Nationale, installé sur l’ensemble du territoire dont la mission principale est de “renforcer l’action de la communauté éducative en faveur de la réussite des élèves”. Si ses missions sont multiples, épauler la communauté enseignante, aider à l'utilisation de ressources, d'outils spécifiques et guider les formations, créer des ressources qui offrent des principes narratifs originaux pour faire évoluer l’enseignement, développer les Ateliers en tant qu'observatoires et laboratoires des usages et impulser une politique d'innovation, d'outils numériques et de pratiques associées sont celles que nous retiendront dans le cadre de notre projet transdisciplinaire.
+                            </p>
+                            <a href="https://www.reseau-canope.fr/" target="_blank">Site du réseau Canopé</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 margin_bottom">
+                    <div class="row">
+                        <div class="Games">
+                            <h3>Description</h3>
+                            <p> Notre projet transdisciplinaire a été lancé en octobre 2019 par l’Atelier Canopée 33 de Mérignac et amorcé par un premier groupe d’étudiants de l’ENSC pendant une année. L’objet de ce projet est de construire une progression pédagogique en robotique éducative de la maternelle au CM2 au sein de l’école maternelle et élémentaire Gambetta à Talence qui participe à un projet expérimental de l’Atelier Canopé.
+                            </p>        
+                            <p>
+                            Les élèves travaillent avec des robots éducatifs, expérimentent, résolvent des situations problèmes mettant en jeu des compétences de l’ordre de la pensée computationnelle et des algorithmes. Le projet sur trois ans doit permettre de dégager et proposer une progression pédagogique de la maternelle au collège.
                             </p>
                         </div>
                     </div>
@@ -135,8 +95,8 @@
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
                         <div class="Games">
-                            <h3>Bluebot</h3>
-                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            <h3>Problématique </h3>
+                            <p> Notre client, M. Philippe Guillem a souhaité que l’on  apporte des réponses à la question suivante : Quels sont les impacts de la robotique éducative sur la persévérance scolaire dans le parcours de l’élève ?
                             </p>
                         </div>
                     </div>
@@ -144,9 +104,16 @@
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
                         <div class="Games">
-                            <h3>Application pour enfants </h3>
-                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                            <h3>Antécédents </h3>
+                            <p> Le travail des étudiants de l’année précédente qui ont été les premiers à se lancer sur le projet leur a permis de dresser les premières conclusions. Leurs observations dans les classes élémentaires de CE1 et de CM2 et dans une classe de maternelle ainsi que les notes des élèves obtenues grâce à leur site web ont montré que les activités de robotiques éducatives étaient très appréciées de tous les élèves et que dans l’ensemble elles n’ont pas été perçues comme insurmontables par les élèves. La difficulté rencontrée est la plus élevée pour les activités de type défi. Enfin, ils ont montré qu’il n’existe pas de corrélation linéaire entre la difficulté et le plaisir. Ainsi, le fait que les élèves apprécient une activité ne dépend pas de la difficulté de celle-ci. Utiliser des robots permet donc de rendre la difficulté moins rebutante. 
+                            </p>        
+                            <p>
+                            Ces conclusions fortes intéressantes sont cependant basées sur une faible quantité de données ce qui amenuise leur qualité. Ainsi, nous avons jugé qu’il était important de pallier cela en concentrant nos efforts sur un recueil massif de données. 
+                            </p>        
+                            <p>
+                            Leur travail nous a permis de cerner plus rapidement l’enjeu du nôtre, mais le contexte sanitaire ayant eu un impact sur sa progression, cela nous a forcé à reprendre certains points comme le site web et les grilles d’observation. Par ailleurs, étant donné que nous avons observé des classes et donc des élèves différents de l’année dernière (uniquement des classes maternelles), nous n’avons pas pu assurer un suivi pédagogique des élèves et donc une analyse temporelle des résultats. 
                             </p>
+                            <a href="#">Lien vers leur site</a>
                         </div>
                     </div>
                 </div>
@@ -207,7 +174,7 @@
                                         <li><img src="images/3.png" alt="#"> <a href="objectifs.html">Objectifs</a> </li>
                                         <li><img src="images/3.png" alt="#"> <a href="recherches.html">Recherches</a> </li>
                                         <li><img src="images/3.png" alt="#"> <a href="travail.html"> Travail réalisé</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="donnees.html">Données</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="données.html">Données</a> </li>
                                         <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
                                     </ul>
                                 </div>
