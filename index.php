@@ -63,7 +63,7 @@
                 <div class="col-md-12">
                     <div class="titlepage">
                         <h2>But du projet <img src="images/3.png" alt="#"></h2>
-                        <br/><a href="butduprojet.html">Pour en savoir plus sur le but du projet </a>
+                        <br/><a href="butduprojet.php">Pour en savoir plus sur le but du projet </a>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                 <div class="col-md-12">
                     <div class="titlepage">
                         <h2>Objectifs  <img src="images/3.png" alt="#"></h2>
-                        <br/><a href="objectifs.html">Pour en savoir plus sur les objectifs</a>
+                        <br/><a href="objectifs.php">Pour en savoir plus sur les objectifs</a>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage">
-                        <h2>Recherches  <img src="images/3.png" alt="#"></h2><br/><a href="recherches.html">Pour en savoir plus sur les recherches</a>
+                        <h2>Recherches  <img src="images/3.png" alt="#"></h2><br/><a href="recherches.php">Pour en savoir plus sur les recherches</a>
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage">
-                        <h2>Travail réalisé <img src="images/3.png" alt="#"></h2><br/><a href="travail.html">Pour en savoir plus sur le travail réalisé</a>
+                        <h2>Travail réalisé <img src="images/3.png" alt="#"></h2><br/><a href="travail.php">Pour en savoir plus sur le travail réalisé</a>
                     </div>
                 </div>
             </div>
@@ -253,7 +253,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage">
-                        <h2>Données <img src="images/3.png" alt="#"></h2><br/><a href="donnees.html">Pour en savoir plus sur les données brutes</a>
+                        <h2>Données <img src="images/3.png" alt="#"></h2><br/><a href="donnees.php">Pour en savoir plus sur les données brutes</a>
                     </div>
                 </div>
             </div>
@@ -363,18 +363,18 @@
                         <div class="row">
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 ">
                                 <div class="address">
-                                    <a href="index.html"> <img src="images/logoENSC.png" alt="logo"></a>
+                                    <a href="index.php"> <img src="images/logoENSC.png" alt="logo"></a>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="address">
                                     <h3>Liens</h3>
                                     <ul class="Menu_footer">
-                                        <li class="active"> <img src="images/3.png" alt="#"> <a href="butduprojet.html">But du projet</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="objectifs.html">Objectifs</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="recherches.html">Recherches</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="travail.html"> Travail réalisé</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="donnees.html">Données</a> </li>
+                                        <li class="active"> <img src="images/3.png" alt="#"> <a href="butduprojet.php">But du projet</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="objectifs.php">Objectifs</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="recherches.php">Recherches</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="travail.php"> Travail réalisé</a> </li>
+                                        <li><img src="images/3.png" alt="#"> <a href="donnees.php">Données</a> </li>
                                         <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
                                     </ul>
                                 </div>
