@@ -236,9 +236,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="about-box">
-                        <figure><a href="https://youtu.be/0moNpyw2qA8" target="_blank"><img src="images/video.jpeg" alt="#" /></a></figure>    
-
-                        <p> Cliquez sur la vidéo ci-dessus pour avoir un aperçu de notre travail ! (voir si on fait une vidéo)</p>
+                        <p> Cliquez sur le lien ci-dessus pour avoir un aperçu de notre travail ! Vous y trouverez des précisions sur les grilles d'observations, 
+                        les observations, l'application et les focus group !</p>
                     </div>
                 </div>
             </div>
