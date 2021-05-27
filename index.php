@@ -318,6 +318,35 @@
         </div>
         <!-- end abouts -->
 
+        <div id="software" class="We_are">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="titlepage">
+                            <h2>Fin du projet <img src="images/3.png" alt="#"></h2><br/><a href="travail.html">Pour en savoir plus sur la fin du projet</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 margin_bottom">
+                        <div class="row">
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                                <div class="two-box">
+                                    <figure><img src="images/planvert.jpg" alt="#"/></figure>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                                <div class="box_text">
+                                    <p>Informations sur la fin de projet, le retour d'expérience ainsi que le plan vert.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     <!-- contact -->
     <div id="contact" class="contact">
@@ -353,69 +382,7 @@
    
     <!-- end contact -->
 
-    <!--  footer -->
-    <footr>
-        <div class="footer ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 ">
-                        <div class="row">
-                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 ">
-                                <div class="address">
-                                    <a href="index.php"> <img src="images/logoENSC.png" alt="logo"></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="address">
-                                    <h3>Liens</h3>
-                                    <ul class="Menu_footer">
-                                        <li class="active"> <img src="images/3.png" alt="#"> <a href="butduprojet.php">But du projet</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="objectifs.php">Objectifs</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="recherches.php">Recherches</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="travail.php"> Travail réalisé</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="donnees.php">Données</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6 ">
-                                <div class="address">
-                                    <h3>Nous contacter</h3>
-                                    <ul class="loca">
-                                        <li>
-                                            <a href="#"><img src="icon/loc.png" alt="#" /></a>109 Avenue Roul <br/> 33400 Talence</li>
-                                        <li>
-                                            <a href="#"><img src="icon/email.png" alt="#" /></a>nous@ensc.com </li>
-                                        <li>
-                                            <a href="#"><img src="icon/call.png" alt="#" /></a>+33 5 57 00 67 00 </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <div class="copyright">
-                <div class="container">
-                    <p>© 2019 All Rights Reserved. <a href="https://html.design/">Free html Templates</a></p>
-                </div>
-            </div>
-        </div>
-    </footr>
-    <!-- end footer -->
-    <!-- Javascript files-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery-3.0.0.min.js"></script>
-    <script src="js/plugin.js"></script>
-    <!-- sidebar -->
-    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="js/custom.js"></script>
-    <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-
+    <?php require_once "footer.html" ?>
 </body>
 
 </html>

@@ -213,69 +213,7 @@
    
     <!-- end contact -->
 
-    <!--  footer -->
-    <footr>
-        <div class="footer ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 ">
-                        <div class="row">
-                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 ">
-                                <div class="address">
-                                    <a href="index.html"> <img src="images/logoENSC.png" alt="logo"></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="address">
-                                    <h3>Liens</h3>
-                                    <ul class="Menu_footer">
-                                        <li class="active"> <img src="images/3.png" alt="#"> <a href="butduprojet.html">But du projet</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="objectifs.html">Objectifs</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="recherches.html">Recherches</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="travail.html"> Travail réalisé</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="donnees.html">Données</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6 ">
-                                <div class="address">
-                                    <h3>Nous contacter</h3>
-                                    <ul class="loca">
-                                        <li>
-                                            <a href="#"><img src="icon/loc.png" alt="#" /></a>109 Avenue Roul <br/>33400 Talence</li>
-                                        <li>
-                                            <a href="#"><img src="icon/email.png" alt="#" /></a>nous@ensc.com </li>
-                                        <li>
-                                            <a href="#"><img src="icon/call.png" alt="#" /></a>+33 5 57 00 67 00 </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <div class="copyright">
-                <div class="container">
-                    <p>© 2019 All Rights Reserved. <a href="https://html.design/">Free html Templates</a></p>
-                </div>
-            </div>
-        </div>
-    </footr>
-    <!-- end footer -->
-    <!-- Javascript files-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery-3.0.0.min.js"></script>
-    <script src="js/plugin.js"></script>
-    <!-- sidebar -->
-    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="js/custom.js"></script>
-    <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-
+    <?php require_once "footer.html" ?>
 </body>
 
 </html>

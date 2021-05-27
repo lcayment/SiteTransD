@@ -103,7 +103,8 @@
                         <div class="Games">
                             <h3>Application pour enfants </h3>
                             <p> Pour mener à bien ce projet, nous avons décidé de continuer d’améliorer les fiches d’observations réalisées par nos camarades de deuxièmes années, ainsi que de réaliser une application permettant de quantifier la persévérance scolaire durant les séances de robotique. Afin de se faire, nous avons axés deux thèmes de recherches : le fond et la forme de l’application. 
-                                D’abord, pour le fond de l’application, nous nous sommes basés sur des critères représentant la persévérance scolaire. Nous avons ressorti six aspects importants : 
+                                D’abord, pour le fond de l’application, nous nous sommes basés sur des critères représentant la persévérance scolaire. 
+                                <br><br>Nous avons ressorti six aspects importants : 
 
                                 <br> - <u>Emotions </u> (en début et en fin de séance) → Voir évolution de l’intérêt pour une séance et le ressenti face à celle-ci et ce pour chaque enfant (environ 5 émotions).
                                 <br> - <u>Satisfaction </u>(plaisir ressenti lors d’une séance) →  Voir si de manière générale la séance a été intéressante pour l’élève (utilisation d’un soleil).
@@ -118,12 +119,32 @@
                             </p>
 
                             <p>
-                            Ensuite, nous nous sommes intéressées aux questions de forme de l’application. Nous avons relevé plusieurs points importants dans le design d’une application pour des enfants de maternelle et de primaire. Ces critères sont au nombre de trois :
+                            Ensuite, nous nous sommes intéressées aux questions de forme de l’application. Nous avons relevé plusieurs points importants dans le design d’une application pour des enfants de maternelle et de primaire. 
+                            <br><br>Ces critères sont au nombre de trois :
                                 <br> - <u> Couleurs </u>: assez vives avec des dessins simples (pas des bonhommes bâtons mais pas trop de détails non plus). Il faut des couleurs pastelles pour le menu général et les informations de base et des couleurs plus contrastées genre les couleurs primaires pour poser des questions ou mettre en évidence certains boutons. Des couleurs froides comme le vert ou le bleu permettent de favoriser la créativité et la concentration. Les couleurs rouges, oranges, jaunes sont à proscrire puisqu’elles excitent les enfants. 
 
                                 <br> - <u> Avatars </u> : Création d’un personnage sur l’interface. Au niveau du choix de leur avatar, il faudrait les faire choisir entre quatre animaux au début pour qu’il s’y reconnaisse et cela nous évite de faire des avatars pour tous les enfants. Pour les CP et + : le personnage pourrait avoir une bulle comme dans une bande dessinée pour donner les consignes. Pour les maternelles : le personnage pourrait faire juste office de feedback grâce à ses émotions.
                                 
                                 <br> - <u> Police d’écriture </u> : Utiliser une police favorisant la discrimination des lettres telles que: les polices “sans sérif” (favorable pour les dyslexiques ou directement la police “Open dylexic” qui est mieux pour eux) pour les enfants du début de l’école primaire, il est peut-être plus simple pour eux de lire une police manuscrite qui se rapporche fortement de celle utilisée par les enseignants La taille de la police ne doit pas être en dessous de 12. Pour les petites classes (lecteurs débutants), il est préférable d’utiliser une taille de police entre 14 et 16.Ne pas mettre de caractère en italique (très compliqué à lire pour les dyslexiques). Pour mettre en évidence de informations il faut : mettre en gras, grossissement, changement de couleur.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-12 margin_bottom">
+                    <div class="row">
+                        <div class="Games">
+                            <h3>Livret de compétences </h3>
+                            <p> Nous avons aussi effectué des recherches sur le livret des compétences des primaires afin de faire un lien entre les séances de robotique et les compétences requises par les élèves lors de leurs années scolaires. Le livret personnel de compétences vous permet de suivre la progression des apprentissages de votre enfant à l’école et au collège. C’est un outil national qui suit l’enfant tout au long de sa scolarité. Il est identique pour tous les élèves. À l’école primaire, le livret personnel de compétences est une partie du livret scolaire.
+                                Nous nous sommes focalisés sur les programmes du cycle 1 et du cycle 2. 
+                                <br><br>Les cinq domaines d’apprentissage :
+                                <br>1. Mobiliser le langage dans toutes ses dimensions
+                                <br>2. Agir, s’exprimer, comprendre à travers l’activité physique
+                                <br>3. Agir, s’exprimer, comprendre à travers les activités artistiques
+                                <br>4. Construire les premiers outils pour structurer sa pensée
+                                <br>5. Explorer le monde
+                                <br><br>Nous avons utilisé ce livret des compétences afin de créer des focus group et de pouvoir ainsi analyser si ces séances de robotique sont bénéfiques pour les enfants de manière académique. 
+
                             </p>
                         </div>
                     </div>
@@ -165,68 +186,7 @@
    
     <!-- end contact -->
 
-    <!--  footer -->
-    <footr>
-        <div class="footer ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 ">
-                        <div class="row">
-                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 ">
-                                <div class="address">
-                                    <a href="index.html"> <img src="images/logoENSC.png" alt="logo"></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="address">
-                                    <h3>Liens</h3>
-                                    <ul class="Menu_footer">
-                                        <li class="active"> <img src="images/3.png" alt="#"> <a href="butduprojet.html">But du projet</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="objectifs.html">Objectifs</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="recherches.html">Recherches</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="travail.html"> Travail réalisé</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="donnees.html">Données</a> </li>
-                                        <li><img src="images/3.png" alt="#"> <a href="#contact">Contact</a> </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6 ">
-                                <div class="address">
-                                    <h3>Nous contacter</h3>
-                                    <ul class="loca">
-                                        <li>
-                                            <a href="#"><img src="icon/loc.png" alt="#" /></a>109 Avenue Roul <br/>33400 Talence</li>
-                                        <li>
-                                            <a href="#"><img src="icon/email.png" alt="#" /></a>nous@ensc.com </li>
-                                        <li>
-                                            <a href="#"><img src="icon/call.png" alt="#" /></a>+33 5 57 00 67 00 </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <div class="copyright">
-                <div class="container">
-                    <p>© 2019 All Rights Reserved. <a href="https://html.design/">Free html Templates</a></p>
-                </div>
-            </div>
-        </div>
-    </footr>
-    <!-- end footer -->
-    <!-- Javascript files-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery-3.0.0.min.js"></script>
-    <script src="js/plugin.js"></script>
-    <!-- sidebar -->
-    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="js/custom.js"></script>
-    <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+    <?php require_once "footer.html" ?>
 
 </body>
 
