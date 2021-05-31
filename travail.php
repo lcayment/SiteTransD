@@ -40,7 +40,6 @@
                                 <div class="text-bg">
                                     <h1>Travail réalisé</h1>
                                     <span>Les grilles d'observations, les observations, <br>,les analyses, les focus group, l'application mobile </span>
-                                    <a href="#">Contact</a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
@@ -181,38 +180,6 @@
     </div>
    
     <!-- end our -->
-    <!-- contact -->
-    <div id="contact" class="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <form class="contact_bg"> <h1> N'hésitez pas à nous contacter si vous avez des questions ! </h1>
-                        <div class="row">
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                <input class="contactus" placeholder="Nom" type="text" name="Name">
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                <input class="contactus" placeholder="Téléphone" type="text" name="Email">
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                <input class="contactus" placeholder="Email" type="text" name="Email">
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                <button class="send">Envoyer</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-        </div>
-    </div>
-   
-    <!-- end contact -->
-
     <?php require_once "footer.html" ?>
 </body>
 
