@@ -70,11 +70,27 @@
                 <div class="col-md-12 margin_bottom">
                     <div class="row">
                         <div class="Games">
+                            <h3>Dessine moi un robot</h3>
+                            <p>
+                                La première étape fut de chercher la définition même d'un robot pour bien comprendre l'outil utilisé dans notre projet. Selon Larousse un robot est <u>"Dans les œuvres de science-fiction, machine à l'aspect humain, capable de se mouvoir, d'exécuter des opérations, de parler"</u>. Ainsi, il n'est pas surprenant que les enfants ne visualise pas Bluebot comme étant un robot dans un premier (malgré ses yeux et son visage !). Une définition probablement plus adaptée serait la suivante : <u>"Appareil automatique capable de manipuler des objets ou d'exécuter des opérations selon un programme fixe, modifiable ou adaptable".</u>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 margin_bottom">
+                    <div class="row">
+                        <div class="Games">
+                            
                             <h3>La persévérance scolaire</h3>
-                            <p>Avant de nous lancer dans le projet, nous avons fait des recherches sur la persévérance scolaire afin de mieux comprendre les objectifs et de mieux cerner ce que nous allions traiter et faire durant ce projet. 
-                            Nous avons dans un premier temps défini les termes persévérance et scolaire. D’abord, la persévérance est l’action de persévérer, c’est-à-dire de demeurer ferme et constant dans un sentiment, une résolution (Cf. Larousse). Le milieu scolaire est tout ce qui à un rapport à l’école ou à l’enseignement (Cf. Larousse).
-                            Ensuite, nous avons effectué des recherches sur les buts et les aboutissants de la persévérance scolaire. Il est donc question de limiter le décrochage scolaire en proposant des dynamiques particulières à l’école. Les objectifs de se concentrer sur cela sont nombreux, c’est : de détecter au plus vite le décrochage scolaire, de favoriser la réussite et les talents pour développer l'appétence scolaire, d’adapter les pratiques scolaire pour les élèves ayant des difficultés, développer l’accès à la culture à tous, d’orienter correctement les élèves et de maintenir une dynamique et un accompagnement personnalisé à chaque élèves de la part des professeurs. 
-                            Pour continuer, nous avons fait des recherches sur les moyens de soutenir la persévérance scolaire auprès des élèves. Nous avons relevé trois points importants :
+                            <p>
+                                Avant de nous lancer dans le projet, nous avons fait des recherches sur <u>la persévérance scolaire</u> afin de mieux comprendre les objectifs et de mieux cerner ce que nous allions traiter et faire durant ce projet. <br>
+                                Nous avons dans un premier temps défini les termes persévérance et scolaire. D’abord, <strong> la persévérance est l’action de persévérer, c’est-à-dire de demeurer ferme et constant dans un sentiment, une résolution</strong> (Cf. Larousse). <br><strong>Le milieu scolaire est tout ce qui à un rapport à l’école ou à l’enseignement</strong> (Cf. Larousse). <br>
+                            </p>  
+                            <p>
+                                Ensuite, nous avons effectué des recherches sur les <strong>tenants et les aboutissants de la persévérance scolaire</strong>. Il est donc question de limiter le décrochage scolaire en proposant des dynamiques particulières à l’école. Les objectifs de se concentrer sur cela sont nombreux, c’est : de <u>détecter au plus vite le décrochage scolaire</u>, de <u>favoriser la réussite et les talents pour développer l'appétence scolaire</u>, <u>d’adapter les pratiques scolaire pour les élèves ayant des difficultés</u>, <u>développer l’accès à la culture à tous</u>, d’<u>orienter correctement les élèves</u> et de <u>maintenir une dynamique et un accompagnement personnalisé à chaque élève de la part des professeurs</u>. <br>
+                                Pour continuer, nous avons fait des recherches sur les moyens de soutenir la persévérance scolaire auprès des élèves. Nous avons relevé trois points importants :
                                 <br>    - que ces derniers soient motivés et s’y investissent
                                 <br>    - qu’ils se sentent capables de réussir un parcours adapté à leurs capacités et aspirations
                                 <br>    - que les exigences de leur vie d’élève s’harmonisent avec les autres dimensions de leur vie <br>
@@ -82,7 +98,7 @@
                             </p>
 
                             <p>
-                                Enfin, nous avons analysé et annoté les facteurs influençant la persévérance scolaire. Nous en avons relevé neuf importants qui sont les suivants : l’effort, le plaisir de progresser, la motivation, l’autonomie, l’engagement, l’estime de soi, l’encadrement parental, le climat scolaire (ex : solidarité), les ressources du milieu.
+                                Enfin, nous avons analysé et annoté les facteurs influençant la persévérance scolaire. Nous en avons relevé neuf importants qui sont les suivants : <strong>l’effort</strong>, <strong>le plaisir de progresser</strong>, <strong>la motivation</strong>, <strong>l’autonomie</strong>, <strong>l’engagement</strong>, <strong>l’estime de soi</strong>, <strong>l’encadrement parental</strong>, <strong>le climat scolaire</strong> (ex : solidarité), <strong>les ressources du milieu</strong>.
                                 Ces analyses et ces définitions des facteurs, des moyens, et des buts nous permettent de mieux comprendre certains aspects du projet et nous ont permis de commencer à aborder le projet avec des buts précis. 
                             </p>
                         </div>
@@ -92,8 +108,9 @@
                     <div class="row">
                         <div class="Games">
                             <h3>Bluebot</h3>
-                            <p> Une fois le sujet bien défini et avant d’aller dans les classes participant aux séances de robotique, nous avons reçu des documents de la part de notre client permettant de découvrir et de comprendre le fonctionnement des automates et des robots présents lors de ces séances. Nous nous sommes renseigné sur les méthodes proposées par le groupe Canopé afin de découvrir et de créer les séances de robotique et plus particulièrement, sur la robotique débranchée. Nous nous sommes focalisés sur l’automate BluetBot puisque nous avions prévu de faire des observations dans la classe de moyenne et grande section de maternelle de madame Cannelle PARODI.
+                            <p> Une fois le sujet bien défini et avant d’aller dans les classes participant aux séances de robotique, nous avons reçu des documents de la part de notre client permettant de découvrir et de comprendre le fonctionnement des <strong>automates et des robots</strong> présents lors de ces séances. Nous nous sommes renseigné sur les méthodes proposées par le groupe Canopé afin de découvrir et de créer les séances de robotique et plus particulièrement, sur la robotique débranchée. Nous nous sommes focalisés sur l’automate <strong>BluetBot</strong> puisque nous avions prévu de faire des observations dans la classe de moyenne et grande section de maternelle de madame Cannelle PARODI.
                             </p>
+                            <figure><img src="images/bluebot.png" alt="#"></figure>
                         </div>
                     </div>
                 </div>
@@ -101,7 +118,7 @@
                     <div class="row">
                         <div class="Games">
                             <h3>Application pour enfants </h3>
-                            <p> Pour mener à bien ce projet, nous avons décidé de continuer d’améliorer les fiches d’observations réalisées par nos camarades de deuxièmes années, ainsi que de réaliser une application permettant de quantifier la persévérance scolaire durant les séances de robotique. Afin de se faire, nous avons axés deux thèmes de recherches : le fond et la forme de l’application. 
+                            <p> Nous avons axés nos recherches sur deux thèmes : le <strong>fond et la forme</strong> de l’application. 
                                 D’abord, pour le fond de l’application, nous nous sommes basés sur des critères représentant la persévérance scolaire. 
                                 <br><br>Nous avons ressorti six aspects importants : 
 
@@ -114,17 +131,17 @@
                             </p>
 
                             <p>
-                            Nous avons décidé de garder l’analyse des émotions, de la satisfaction et du ressenti face aux problèmes rencontrés pour l’application et d’analyser l’engagement, la temporalité et l’impatience sur nos grilles d’observation. 
+                            Nous avons décidé de garder l’<strong>analyse des émotions, de la satisfaction et du ressenti face aux problèmes rencontrés </strong> pour l’application et d’analyser <strong>l’engagement, la temporalité et l’impatience sur nos grilles d’observation</strong>. 
                             </p>
 
                             <p>
-                            Ensuite, nous nous sommes intéressées aux questions de forme de l’application. Nous avons relevé plusieurs points importants dans le design d’une application pour des enfants de maternelle et de primaire. 
+                            Ensuite, nous nous sommes intéressées aux questions de <strong>forme de l’application</strong>. Nous avons relevé plusieurs points importants dans le design d’une application pour des enfants de maternelle et de primaire. 
                             <br><br>Ces critères sont au nombre de trois :
-                                <br> - <u> Couleurs </u>: assez vives avec des dessins simples (pas des bonhommes bâtons mais pas trop de détails non plus). Il faut des couleurs pastelles pour le menu général et les informations de base et des couleurs plus contrastées genre les couleurs primaires pour poser des questions ou mettre en évidence certains boutons. Des couleurs froides comme le vert ou le bleu permettent de favoriser la créativité et la concentration. Les couleurs rouges, oranges, jaunes sont à proscrire puisqu’elles excitent les enfants. 
+                                <br> - <u> Couleurs </u>: assez vives avec des dessins simples (pas des bonhommes bâtons mais pas trop de détails non plus). Il faut des couleurs pastel pour le menu général et les informations de base et des couleurs plus contrastées (les couleurs primaires pour poser des questions ou mettre en évidence certains boutons par exemple). Des couleurs froides comme le vert ou le bleu permettent de favoriser la créativité et la concentration. Les couleurs rouges, oranges, jaunes sont à proscrire puisqu’elles excitent les enfants. 
 
-                                <br> - <u> Avatars </u> : Création d’un personnage sur l’interface. Au niveau du choix de leur avatar, il faudrait les faire choisir entre quatre animaux au début pour qu’il s’y reconnaisse et cela nous évite de faire des avatars pour tous les enfants. Pour les CP et + : le personnage pourrait avoir une bulle comme dans une bande dessinée pour donner les consignes. Pour les maternelles : le personnage pourrait faire juste office de feedback grâce à ses émotions.
+                                <br> - <u> Avatars </u> : Création d’un personnage sur l’interface. Au niveau du choix de leur avatar (des animeaux par exemple). Pour les CP et + : le personnage pourrait avoir une bulle comme dans une bande dessinée pour donner les consignes. Pour les maternelles : le personnage pourrait faire juste office de feedback grâce à ses émotions.
                                 
-                                <br> - <u> Police d’écriture </u> : Utiliser une police favorisant la discrimination des lettres telles que: les polices “sans sérif” (favorable pour les dyslexiques ou directement la police “Open dylexic” qui est mieux pour eux) pour les enfants du début de l’école primaire, il est peut-être plus simple pour eux de lire une police manuscrite qui se rapporche fortement de celle utilisée par les enseignants La taille de la police ne doit pas être en dessous de 12. Pour les petites classes (lecteurs débutants), il est préférable d’utiliser une taille de police entre 14 et 16.Ne pas mettre de caractère en italique (très compliqué à lire pour les dyslexiques). Pour mettre en évidence de informations il faut : mettre en gras, grossissement, changement de couleur.
+                                <br> - <u> Police d’écriture </u> : Utiliser une police favorisant la discrimination des lettres telles que: les polices “sans sérif” (favorable pour les dyslexiques ou directement la police “Open dylexic” qui est plus adaptée) pour les enfants du début de l’école primaire, il est peut-être plus simple pour eux de lire une police manuscrite qui se rapporche fortement de celle utilisée par les enseignants La taille de la police ne doit pas être en dessous de 12. Pour les petites classes (lecteurs débutants), il est préférable d’utiliser une taille de police entre 14 et 16. Ne pas mettre de caractère en italique (très compliqué à lire pour les dyslexiques). Pour mettre en évidence de informations il faut : mettre en gras, grossissement, changement de couleur.
                             </p>
                         </div>
                     </div>
@@ -134,8 +151,10 @@
                     <div class="row">
                         <div class="Games">
                             <h3>Livret de compétences </h3>
-                            <p> Nous avons aussi effectué des recherches sur le livret des compétences des primaires afin de faire un lien entre les séances de robotique et les compétences requises par les élèves lors de leurs années scolaires. Le livret personnel de compétences vous permet de suivre la progression des apprentissages de votre enfant à l’école et au collège. C’est un outil national qui suit l’enfant tout au long de sa scolarité. Il est identique pour tous les élèves. À l’école primaire, le livret personnel de compétences est une partie du livret scolaire.
+                            <p> 
+                                Nous avons aussi effectué des recherches sur le <strong>livret des compétences des primaires</strong> afin de faire un lien entre les séances de robotique et les compétences requises par les élèves lors de leurs années scolaires. Le livret personnel de compétences vous permet de suivre la progression des apprentissages des enfants à l’école et au collège. C’est un outil national qui suit l’enfant tout au long de sa scolarité. Il est identique pour tous les élèves. À l’école primaire, le livret personnel de compétences est une partie du livret scolaire.
                                 Nous nous sommes focalisés sur les programmes du cycle 1 et du cycle 2. 
+
                                 <br><br>Les cinq domaines d’apprentissage :
                                 <br>1. Mobiliser le langage dans toutes ses dimensions
                                 <br>2. Agir, s’exprimer, comprendre à travers l’activité physique
