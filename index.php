@@ -42,7 +42,6 @@
                                 <div class="text-bg">
                                     <h1>Projet <br> transdisciplinaire</h1>
                                     <span>Bienvenue sur le site de <br> notre projet transdisciplinaire :<br>Robot à l'école</span>
-                                    <a href="#">Contact</a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 ">
@@ -268,16 +267,16 @@
                  </div>
                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_right">
                      <div class="box_text">
-                         <h3>Les observations</h3>
-                         <p>L'ensemble des observations et des analyses sont regroupés ici. Ces observations ont été menées durant les mois de novembre et décembre 2020.</p>
+                         <h3>Le plaisir</h3>
+                         <p>Ici sont regroupés les données analysées en lien avec le plaisir. Ces données proviennent en majeur partie des observations.</p>
                      </div>
                      <div class="box_text">
-                        <h3>Les focus group</h3>
-                        <p>Les focus group ont été mis en place au début du second semestre du projet et concernent des enfants de primaire.</p>
+                        <h3>La difficulté</h3>
+                        <p>Ici sont regroupés les données analysées en lien avec la difficulté cette fois-ci. Ces données proviennent également des observations</p>
                      </div>
                      <div class="box_text">
-                        <h3>Les retours de l'application</h3>
-                        <p>Suite à la mise en place de l'application, voici les retours de données que nous avons recueillis.</p>
+                        <h3>Pour aller plus loin</h3>
+                        <p>D'autres façons de récupérer des données sont présentées ici.</p>
                      </div>
                  </div>  
             </div>
@@ -307,7 +306,7 @@
 
                             <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
                                 <div class="box_text">
-                                    <p>Vision et mission du projet, KPI, North Star, User Journey, A/B tests etc (cf moodle)
+                                    <p>Vision et mission du projet, KPI, North Star, User Journey, A/B tests, etc.  
                                     </p>
                                 </div>
                             </div>
@@ -348,39 +347,6 @@
             </div>
         </div>
 
-    <!-- contact -->
-    <div id="contact" class="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <form class="contact_bg"> <h1> N'hésitez pas à nous contacter si vous avez des questions ! </h1>
-                        <div class="row">
-                            <form method="post" action="Contact.php">
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                    <input class="contactus" placeholder="Nom" type="text" name="Name">
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <input class="contactus" placeholder="Téléphone" type="text" name="Email">
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <input class="contactus" placeholder="Email" type="text" name="Email">
-                                </div>
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                    <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                                </div>
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                    <button class="submit" value="Valider">Envoyer</button>
-                                </div>
-                            </form>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-        </div>
-    </div>
-   
-    <!-- end contact -->
 
     <?php require_once "footer.html" ?>
 </body>
