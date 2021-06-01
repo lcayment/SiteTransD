@@ -291,7 +291,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="titlepage">
-                            <h2>Gestion de projet <img src="images/3.png" alt="#"></h2><br/><a href="travail.html">Pour en savoir plus sur la gestion de projet</a>
+                            <h2>Gestion de projet <img src="images/3.png" alt="#"></h2><br/><a href="gestiondeprojet.php">Pour en savoir plus sur la gestion de projet</a>
                         </div>
                     </div>
                 </div>
@@ -300,7 +300,7 @@
                         <div class="row">
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                                 <div class="two-box">
-                                    <figure><img src="images/contexte.jpeg" alt="#"/></figure>
+                                    <figure><img src="images/gestionproj.png" alt="#"/></figure>
                                 </div>
                             </div>
 
@@ -322,7 +322,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="titlepage">
-                            <h2>Fin du projet <img src="images/3.png" alt="#"></h2><br/><a href="travail.html">Pour en savoir plus sur la fin du projet</a>
+                            <h2>Fin du projet <img src="images/3.png" alt="#"></h2><br/><a href="retour_planvert.php">Pour en savoir plus sur la fin du projet</a>
                         </div>
                     </div>
                 </div>
