@@ -119,34 +119,108 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-md-12 margin_bottom">
                 <div class="row">
                     <div class="Games">
                         <h3>L'équipe </h3>
-                        <p>
-                            Maïwen Maginet : Lorem ipsum
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12 margin_bottom">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="two-box">
                             <figure><img src="images/maiwen.jpg" alt="#"/></figure>
-                        </p>
+                        </div>
+                    </div>
 
-                        <p>
-                            Lottie Rocuet : Lorem ipsum 
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="Games">
+                            <strong>Maïwen Maginet</strong><br/>
+                            <p>Je m'appelle Maïwen Maginet, je suis étudiant en première année à l'Ecole Nationale Supérieure de Cognitique. Avant d'intégrer l'école, j'ai été étudiante au Cycle Préparatoire de Bordeaux (CPBx) pendant 2 ans. Faire partie de ce projet était un grand plaisi pour moi puisque je travaille régulièrement en tant qu'animatrice avec des enfants.
+                            </p>
+                            <p><u>Contact :</u> mmaginet@ensc.fr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 margin_bottom">
+                <div class="row">
+
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="two-box">
                             <figure><img src="images/lottie.png" alt="#"/></figure>
-                        </p>
+                        </div>
+                    </div>
 
-                        <p>
-                            Maëlle François : Lorem ipsum
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="Games">
+                            <strong>Lottie Rocuet</strong><br/>
+                            <p>Moi c'est Lottie ! Diplômée d'un DUT MMI avant d'intégrer l'ENSC, je suis passionnée par l'application de la robotique aux facteurs humains. Ayant déjà travaillé avec des robots et leur accessibilité à la Robocup 2019, ce projet passionnant m'as permis de découvrir les robots sous un nouvel angle à travers le regard d'enfants débordants de ressources. J'aimerai que la facilitation d'accès aux nouvelles technologiques et leur exploitation soient les nouveaux enjeux de demain.
+                            </p>
+                            <p><u>Contact :</u> lrocuet001@ensc.fr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 margin_bottom">
+                <div class="row">
+
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="two-box">
                             <figure><img src="images/maelle.png" alt="#"/></figure>
-                        </p>
+                        </div>
+                    </div>
 
-                        <p>
-                            Hana Hajjam : Lorem ipsum
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="Games">
+                            <strong>Maëlle François</strong><br/>
+                            <p>Bonjour ! Moi c'est Maëlle, à l'issue de deux années en classe préparatoire Physique/Chimie j'ai intégré l'ENSC. Intéressée par l'usage des sciences dans le domaine de l'éducation, le projet "Robot à l'école" est tombé à pic ! La problématique posée, liant la robotique et la persévérance scolaire m'a tout de suite plu. Rien de plus passionnant que de travailler avec le réseau Canopé, acteur incontournable du numérique éducatif !
+                            </p>
+                            <p><u>Contact :</u> mfrancois006@ensc.fr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 margin_bottom">
+                <div class="row">
+
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="two-box">
                             <figure><img src="images/hana.jpg" alt="#"/></figure>
-                        </p>
+                        </div>
+                    </div>
 
-                        <p>
-                            Lucie Cayment : Lorem ipsum
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="Games">
+                            <strong>Hana Hajjam </strong><br/>
+                            <p>Bonjour, moi c'est Hana ! Avant l'ENSC, j'ai fait une classe préparatoire en Physique-Chimie pendant 2 ans. Le projet "Robot à l'école" du réseau Canopé m'a tout de suite plu. Entre éducation et robotique, il a été très plaisant de travailler sur notre problématique en mettant l'accent sur la persévérance scolaire.</p>
+                            <p><u>Contact :</u> hhajjamelha@ensc.fr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 margin_bottom">
+                <div class="row">
+
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="two-box">
                             <figure><img src="images/lucie.png" alt="#"/></figure>
-                        </p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="Games">
+                            <strong>Lucie Cayment</strong><br/>
+                            <p>Bonjour ! Je m'appelle Lucie Cayment et je suis aussi étudiante en première année à l'ENSC ! Avant d'intégrer l'école j'ai suivi un parcours trinationale en France, en Allemagne et en Suisse dans le domaine de l'électronique et de l'informatique. Me plonger dans la robotique éducative fût un réel plaisir, surtout avec une équipe pareille ! 
+                            </p>
+                            <p><u>Contact :</u> lcayment@ensc.fr</p>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -128,7 +128,7 @@
                             - <u>Le questionnaire :</u> cette étape est la plus longue et dure environ 15 minutes. Ici on pose aux enfants des questions sur les séances de robotique et, selon leur réponse, il se déplace d’un côté ou de l’autre de la classe. Il est également possible de rester au milieu lorsqu’ils ne savent pas ou qu’ils ne veulent pas répondre. Chaque question est suivie d’une discussion avec les enfants pour qu’ils puissent préciser leur réponse.</br>
                             </p>
 
-                            <p>Ces séances devraient durer 30 à 45 min environ de la présentation à la fin du questionnaire. Ci joint vous trouverez le questionnaire (AJOUTER LIEN POUR LE QUESTIONNAIRE).</p>
+                            <p>Ces séances devraient durer 30 à 45 min environ de la présentation à la fin du questionnaire.</p>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,9 @@
                     <div class="row">
                         <div class="Games">
                             <h3>Les entretiens avec les professeurs </h3>
-                            <p> Parallèlement aux focus group avec les enfants il nous semblait intéressant de récolter des informations directement auprès des professeurs. Nous avons ainsi créé cette fois-ci un entretien avec quelques questions. Nous n’avons pas pu nous entretenir avec beaucoup de professeurs, également à cause de la situation. Cependant nous avons pu nous entretenir avec la directrice de l’école primaire Gambetta Mme Brun. Ci-joint vous trouverez le questionnaire utilisé pour l’entretien (AJOUTER LE PDF DE L’ENTRETIEN). </p>
+                            <p> Parallèlement aux focus group avec les enfants il nous semblait intéressant de récolter des informations directement auprès des professeurs. Nous avons ainsi créé cette fois-ci un entretien avec quelques questions. Nous n’avons pas pu nous entretenir avec beaucoup de professeurs, également à cause de la situation. Cependant nous avons pu nous entretenir avec la directrice de l’école primaire Gambetta Mme Brun. Ci-joint vous trouverez le questionnaire utilisé pour l’entretien.</p>
+
+                            <figure><img src="images/entretien_prof.png" alt="#"></figure>
 
                             <p>Globalement, selon Mme Brun, les impacts des séances de robotique sur les élèves ne sont pas mesurables. Les différences se situent principalement au niveau de l’attention que les élèves portent aux séances de robotique. Un élève en difficulté sera plus attentif pendant ces séances que dans n’importe quel cours.</p>
 
